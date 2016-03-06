@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-This program will sort a list of given integers.
-Code will go here.
+//This program will sort a list of given integers.
+//Code will go here.
 
 
 
