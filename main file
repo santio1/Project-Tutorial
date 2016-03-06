@@ -1,0 +1,18 @@
+; Name
+; Section 1001
+; Assignment A
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+This program will sort a list of given integers.
+Code will go here.
+
+
+
+
+endl;
+}
